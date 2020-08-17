@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T02:03:16.472Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.106" etag="43_s80dgazLDbmO0X9aS" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T02:03:24.421Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.106" etag="wk__VWl7_Yh7WmoyNBw4" version="13.6.2" type="github">
   <diagram id="SsGNrF4sOVybS0CelrMV" name="Page-1">
     <mxGraphModel dx="1382" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,12 +30,6 @@
         </mxCell>
         <mxCell id="UiGpj8nbxqR-BWijNMPB-6" value="Bastard, Pervert" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UiGpj8nbxqR-BWijNMPB-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="440" as="sourcePoint" />
-            <mxPoint x="450" y="390" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
